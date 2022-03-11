@@ -1,7 +1,7 @@
 # 0x00. C - Hello, World
 
 ### Tasks
-**[0-preprocessor](0-preprocessor)** - a bash script that runs a C file, saved in the variable `$CFILE`, through the preprocessor and saves the result into another file, named `c`
+**[0-Preprocessor](0-preprocessor)** - a bash script that runs a C file, saved in the variable `$CFILE`, through the preprocessor and saves the result into another file, named `c`
 
 **[1-compiler](1-compiler)** - a bash script that compiles a C file, saved in the variable `$CFILE`, but does not link. The output file will be named the same as the C file, but with the extension `.o` instead of `.c`
 
