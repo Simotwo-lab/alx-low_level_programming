@@ -8,6 +8,6 @@ Most of the projects in this repository is written in C programming language.
 3. [0x02-functions_nested_loops](./0x02-functions_nested_loops)
 4. [0x03-debugging](./0x03-debugging)
 5. [0x04-more_functions_nested_loops](./0x04-more_functions_nested_loops)
-6. [0x04-more_functions_nested_loops](./0x04-more_functions_nested_loops)
+6. [0x05-pointers_arrays_strings](./0x05-pointers_arrays_strings)
 7. [0x06-pointers_arrays_strings](./0x06-pointers_arrays_strings)
 
